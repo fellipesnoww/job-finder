@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "job-finder",
+    "slug": "job-finder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "job-finder"
+}
